@@ -1,5 +1,5 @@
 {
-  "name": "O&A Restroom Services",
+  "name": "O&A Restroom Portables Inc",
   "short_name": "O&A Restroom",
   "description": "Portable restroom, septic pumping, and event equipment rentals serving the Coachella Valley, CA.",
   "start_url": "/",
@@ -7,6 +7,7 @@
   "background_color": "#ffffff",
   "theme_color": "#0b3d78",
   "icons": [
-    { "src": "/assets/img/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+    { "src": "/assets/img/favicon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/img/favicon-512.png", "sizes": "512x512", "type": "image/png" }
   ]
 }

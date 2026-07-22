@@ -16,7 +16,9 @@
 <meta property="og:image" content="https://oarestroomservices.com/assets/img/oa-portable-restroom-trailers-lineup.jpg">
 <meta property="og:locale" content="es_ES">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/assets/img/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="/assets/img/favicon-192.png" sizes="192x192" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/favicon-180.png">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="stylesheet" href="/assets/css/style.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -42,22 +44,21 @@
   </div>
   <div class="container navbar">
     <a class="brand" href="/es/">
-      <span class="brand-mark">O&A</span>
-      <span>O&amp;A Restroom Services<span class="brand-text-sub">Valle de Coachella, CA</span></span>
+      <img class="brand-mark" src="/assets/img/logo-trimmed.png" alt="O&amp;A Restroom Portables Inc logo">
+      <span class="brand-name"><span class="brand-line">O&amp;A Restroom</span><span class="brand-line">Portables, Inc.</span><span class="brand-text-sub">Valle de Coachella, CA</span></span>
     </a>
-    <button class="nav-toggle" aria-label="Alternar menú" aria-expanded="false"></button>
+    <button class="nav-toggle" aria-label="Alternar menú" aria-expanded="false"><span></span></button>
     <ul class="nav-links">
       <li><a href="/es/">Inicio</a></li>
-      <li><a href="/es/renta-de-banos-portatiles.html">Baños Portátiles</a></li>
-      <li><a href="/es/banos-de-lujo.html">Baños de Lujo</a></li>
-      <li><a href="/es/limpieza-fosas-septicas.html">Limpieza Séptica</a></li>
-      <li><a href="/es/equipo-para-construccion.html">Equipo de Construcción</a></li>
-      <li><a href="/es/zona-de-servicio.html">Zona de Servicio</a></li>
+      <li><a href="/es/renta-de-banos-portatiles.html">Baños<br>Portátiles</a></li>
+      <li><a href="/es/banos-de-lujo.html">Baños<br>de Lujo</a></li>
+      <li><a href="/es/limpieza-fosas-septicas.html">Limpieza<br>Séptica</a></li>
+      <li><a href="/es/equipo-para-construccion.html">Equipo de<br>Construcción</a></li>
+      <li><a href="/es/zona-de-servicio.html">Zona de<br>Servicio</a></li>
       <li><a href="/es/nosotros.html">Nosotros</a></li>
       <li><a href="/es/contacto.html" aria-current="page">Contacto</a></li>
     </ul>
     <div class="nav-cta">
-      <span class="nav-phone">(760) 701-0814</span>
       <a class="btn btn-primary" href="/es/contacto.html">Cotizar Ahora</a>
     </div>
   </div>
@@ -79,8 +80,11 @@
     <div class="container contact-grid">
 
       <div>
+        <h2 style="margin-bottom:14px;">Su Lista de Cotización</h2>
+        <div class="quote-list-box"></div>
         <h2>Envíenos los Detalles de su Trabajo</h2>
         <form class="quote-form" data-lang="es">
+          <input type="hidden" id="selected-items-field" name="selected_items">
           <div class="form-row">
             <div>
               <label for="name">Nombre Completo</label>
@@ -175,8 +179,8 @@
     <div class="footer-grid">
       <div>
         <div class="footer-brand">
-          <span class="brand-mark">O&A</span>
-          <strong style="color:#fff;">O&amp;A Restroom Services</strong>
+          <img class="brand-mark" src="/assets/img/logo-trimmed.png" alt="O&amp;A Restroom Portables Inc logo">
+          <strong style="color:#fff;">O&amp;A Restroom Portables, Inc.</strong>
         </div>
         <p>Renta de baños portátiles, limpieza séptica y equipo para construcción/eventos en el Valle de Coachella, CA.</p>
         <p>Licencia B-1002207 · Licenciados y Afianzados</p>
