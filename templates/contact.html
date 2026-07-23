@@ -48,13 +48,14 @@
     <button class="nav-toggle" aria-label="{{k11}}" aria-expanded="false"><span></span></button>
     <ul class="nav-links">
       <li><a href="/">{{k12}}</a></li>
-      <li><a href="/portable-restroom-rental.html">{{k13}}<br>{{k14}}</a></li>
-      <li><a href="/luxury-restroom-trailers.html">{{k15}}<br>{{k16}}</a></li>
-      <li><a href="/septic-tank-pumping.html">{{k17}}<br>{{k18}}</a></li>
-      <li><a href="/construction-site-equipment.html">{{k19}}<br>{{k20}}</a></li>
-      <li><a href="/service-area.html">{{k21}}<br>{{k22}}</a></li>
+      <li><a href="/portable-restroom-rental.html">{{k13}}<span class="nav-break"> </span>{{k14}}</a></li>
+      <li><a href="/luxury-restroom-trailers.html">{{k15}}<span class="nav-break"> </span>{{k16}}</a></li>
+      <li><a href="/septic-tank-pumping.html">{{k17}}<span class="nav-break"> </span>{{k18}}</a></li>
+      <li><a href="/construction-site-equipment.html">{{k19}}<span class="nav-break"> </span>{{k20}}</a></li>
+      <li><a href="/service-area.html">{{k21}}<span class="nav-break"> </span>{{k22}}</a></li>
       <li><a href="/about.html">{{k23}}</a></li>
       <li><a href="/contact.html" aria-current="page">{{k24}}</a></li>
+      <li class="nav-cta-mobile"><a class="btn btn-primary btn-block" href="/contact.html">{{k25}}</a></li>
     </ul>
     <div class="nav-cta">
       <a class="btn btn-primary" href="/contact.html">{{k25}}</a>
@@ -81,7 +82,7 @@
         <h2 style="margin-bottom:14px;">{{k31}}</h2>
         <div class="quote-list-box"></div>
         <h2>{{k32}}</h2>
-        <form class="quote-form" data-lang="en">
+        <form class="quote-form" id="quote-form" data-lang="en">
           <input type="hidden" id="selected-items-field" name="selected_items">
           <div class="form-row">
             <div>

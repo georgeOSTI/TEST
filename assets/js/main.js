@@ -28,6 +28,33 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
+  var header = document.querySelector(".site-header");
+  if (header) {
+    var ticking = false;
+    var scrolled = false;
+    var applyScrollState = function () {
+      var y = window.scrollY;
+      if (!scrolled && y > 80) {
+        scrolled = true;
+      } else if (scrolled && y < 20) {
+        scrolled = false;
+      }
+      header.classList.toggle("scrolled", scrolled);
+      ticking = false;
+    };
+    window.addEventListener(
+      "scroll",
+      function () {
+        if (!ticking) {
+          window.requestAnimationFrame(applyScrollState);
+          ticking = true;
+        }
+      },
+      { passive: true }
+    );
+    applyScrollState();
+  }
+
   var form = document.querySelector(".quote-form");
   if (form) {
     form.addEventListener("submit", function (e) {

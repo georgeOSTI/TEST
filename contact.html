@@ -48,13 +48,14 @@
     <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false"><span></span></button>
     <ul class="nav-links">
       <li><a href="/">Home</a></li>
-      <li><a href="/portable-restroom-rental.html">Portable<br>Restrooms</a></li>
-      <li><a href="/luxury-restroom-trailers.html">Luxury<br>Restrooms</a></li>
-      <li><a href="/septic-tank-pumping.html">Septic<br>Pumping</a></li>
-      <li><a href="/construction-site-equipment.html">Construction<br>Equipment</a></li>
-      <li><a href="/service-area.html">Service<br>Area</a></li>
+      <li><a href="/portable-restroom-rental.html">Portable<span class="nav-break"> </span>Restrooms</a></li>
+      <li><a href="/luxury-restroom-trailers.html">Luxury<span class="nav-break"> </span>Restrooms</a></li>
+      <li><a href="/septic-tank-pumping.html">Septic<span class="nav-break"> </span>Pumping</a></li>
+      <li><a href="/construction-site-equipment.html">Construction<span class="nav-break"> </span>Equipment</a></li>
+      <li><a href="/service-area.html">Service<span class="nav-break"> </span>Area</a></li>
       <li><a href="/about.html">About</a></li>
       <li><a href="/contact.html" aria-current="page">Contact</a></li>
+      <li class="nav-cta-mobile"><a class="btn btn-primary btn-block" href="/contact.html">Get a Quote</a></li>
     </ul>
     <div class="nav-cta">
       <a class="btn btn-primary" href="/contact.html">Get a Quote</a>
@@ -81,7 +82,7 @@
         <h2 style="margin-bottom:14px;">Your Quote List</h2>
         <div class="quote-list-box"></div>
         <h2>Send Us Your Job Details</h2>
-        <form class="quote-form" data-lang="en">
+        <form class="quote-form" id="quote-form" data-lang="en">
           <input type="hidden" id="selected-items-field" name="selected_items">
           <div class="form-row">
             <div>
