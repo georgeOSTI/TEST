@@ -1,0 +1,376 @@
+{
+  "translations": {
+    "k1": {
+      "en": "Construction Site & Event Equipment Rental | Generators, Light Towers, Shade & Containers | Coachella Valley",
+      "es": "Renta de Equipo para Construcción y Eventos | Generadores, Torres de Luz, Sombras y Contenedores | Valle de Coachella"
+    },
+    "k2": {
+      "en": "Rent job-site support equipment in the Coachella Valley: shade structures, utility trailers, light towers, generators, and 40ft cargo containers. Licensed & bonded.",
+      "es": "Rente equipo de apoyo para obras en el Valle de Coachella: estructuras de sombra, remolques utilitarios, torres de luz, generadores y contenedores de 40 pies. Licenciados y afianzados."
+    },
+    "k3": {
+      "en": "Construction Site & Event Equipment Rental | O&A Restroom Portables, Inc.",
+      "es": "Equipo para Construcción y Eventos | O&A Restroom Portables, Inc."
+    },
+    "k4": {
+      "en": "Shade structures, utility trailers, light towers, generators, and cargo containers for job sites and events across the Coachella Valley.",
+      "es": "Estructuras de sombra, remolques utilitarios, torres de luz, generadores y contenedores para obras y eventos en el Valle de Coachella."
+    },
+    "k5": {
+      "en": "https://oarestroomservices.com/construction-site-equipment.html",
+      "es": "https://oarestroomservices.com/es/equipo-para-construccion.html"
+    },
+    "k6": {
+      "en": "en_US",
+      "es": "es_ES"
+    },
+    "k7": {
+      "en": "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Construction Site and Event Equipment Rental\",\n  \"provider\": {\"@type\": \"LocalBusiness\", \"name\": \"O&A Restroom Portables, Inc.\", \"telephone\": \"+1-760-701-0814\", \"url\": \"https://oarestroomservices.com/\"},\n  \"areaServed\": {\"@type\": \"Place\", \"name\": \"Coachella Valley, CA\"},\n  \"offers\": [\n    {\"@type\": \"Offer\", \"name\": \"Handwashing Station\", \"price\": \"100.00\", \"priceCurrency\": \"USD\"},\n    {\"@type\": \"Offer\", \"name\": \"Blue Shade Structure on Trailer (16ft)\", \"price\": \"360.00\", \"priceCurrency\": \"USD\"},\n    {\"@type\": \"Offer\", \"name\": \"Blue Utility Trailer\", \"price\": \"200.00\", \"priceCurrency\": \"USD\", \"description\": \"Per 24 hours\"},\n    {\"@type\": \"Offer\", \"name\": \"Light Tower\", \"price\": \"450.00\", \"priceCurrency\": \"USD\", \"description\": \"Per 8 hours\"},\n    {\"@type\": \"Offer\", \"name\": \"Trailer-Mounted Generator\", \"price\": \"1500.00\", \"priceCurrency\": \"USD\"},\n    {\"@type\": \"Offer\", \"name\": \"Cargo Container (40ft)\", \"price\": \"300.00\", \"priceCurrency\": \"USD\"}\n  ]\n}\n",
+      "es": "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Renta de Equipo para Construcción y Eventos\",\n  \"provider\": {\"@type\": \"LocalBusiness\", \"name\": \"O&A Restroom Portables, Inc.\", \"telephone\": \"+1-760-701-0814\", \"url\": \"https://oarestroomservices.com/\"},\n  \"areaServed\": {\"@type\": \"Place\", \"name\": \"Valle de Coachella, CA\"},\n  \"offers\": [\n    {\"@type\": \"Offer\", \"name\": \"Unidad de Lavado de Manos\", \"price\": \"100.00\", \"priceCurrency\": \"USD\"},\n    {\"@type\": \"Offer\", \"name\": \"Sombra Azul en Remolque (16ft)\", \"price\": \"360.00\", \"priceCurrency\": \"USD\"},\n    {\"@type\": \"Offer\", \"name\": \"Plataforma de Remolque Azul\", \"price\": \"200.00\", \"priceCurrency\": \"USD\", \"description\": \"Por 24 horas\"},\n    {\"@type\": \"Offer\", \"name\": \"Torre de Iluminación\", \"price\": \"450.00\", \"priceCurrency\": \"USD\", \"description\": \"Por 8 horas\"},\n    {\"@type\": \"Offer\", \"name\": \"Generador en Remolque\", \"price\": \"1500.00\", \"priceCurrency\": \"USD\"},\n    {\"@type\": \"Offer\", \"name\": \"Contenedor de Carga (40ft)\", \"price\": \"300.00\", \"priceCurrency\": \"USD\"}\n  ]\n}\n"
+    },
+    "k8": {
+      "en": "Skip to content",
+      "es": "Saltar al contenido"
+    },
+    "k9": {
+      "en": "License B-1002207 · Licensed & Bonded",
+      "es": "Licencia B-1002207 · Licenciados y Afianzados"
+    },
+    "k10": {
+      "en": "Español",
+      "es": "English"
+    },
+    "k11": {
+      "en": "Coachella Valley, CA",
+      "es": "Valle de Coachella, CA"
+    },
+    "k12": {
+      "en": "Toggle menu",
+      "es": "Alternar menú"
+    },
+    "k13": {
+      "en": "Home",
+      "es": "Inicio"
+    },
+    "k14": {
+      "en": "Portable",
+      "es": "Baños"
+    },
+    "k15": {
+      "en": "Restrooms",
+      "es": "Portátiles"
+    },
+    "k16": {
+      "en": "Luxury",
+      "es": "Baños"
+    },
+    "k17": {
+      "en": "Restrooms",
+      "es": "de Lujo"
+    },
+    "k18": {
+      "en": "Septic",
+      "es": "Limpieza"
+    },
+    "k19": {
+      "en": "Pumping",
+      "es": "Séptica"
+    },
+    "k20": {
+      "en": "Construction",
+      "es": "Equipo de"
+    },
+    "k21": {
+      "en": "Equipment",
+      "es": "Construcción"
+    },
+    "k22": {
+      "en": "Service",
+      "es": "Zona de"
+    },
+    "k23": {
+      "en": "Area",
+      "es": "Servicio"
+    },
+    "k24": {
+      "en": "About",
+      "es": "Nosotros"
+    },
+    "k25": {
+      "en": "Contact",
+      "es": "Contacto"
+    },
+    "k26": {
+      "en": "Get a Quote",
+      "es": "Cotizar Ahora"
+    },
+    "k27": {
+      "en": "Home",
+      "es": "Inicio"
+    },
+    "k28": {
+      "en": " / Construction & Event Equipment",
+      "es": " / Equipo para Construcción y Eventos"
+    },
+    "k29": {
+      "en": "Job Sites · Festivals · Outdoor Events",
+      "es": "Obras · Festivales · Eventos al Aire Libre"
+    },
+    "k30": {
+      "en": "Construction & Event Support Equipment",
+      "es": "Equipo de Apoyo para Construcción y Eventos"
+    },
+    "k31": {
+      "en": "Shade structures, utility trailers, light towers, generators, and cargo containers — the site support gear that keeps crews and events running.",
+      "es": "Estructuras de sombra, remolques utilitarios, torres de luz, generadores y contenedores de carga — el equipo de apoyo que mantiene funcionando a las cuadrillas y eventos."
+    },
+    "k32": {
+      "en": "Request a Quote",
+      "es": "Solicitar Cotización"
+    },
+    "k33": {
+      "en": "Call (760) 701-0814",
+      "es": "Llamar (760) 701-0814"
+    },
+    "k34": {
+      "en": "Equipment & Pricing",
+      "es": "Equipo y Precios"
+    },
+    "k35": {
+      "en": "Everything Your Site Needs Beyond Restrooms",
+      "es": "Todo lo que su Sitio Necesita Más Allá de los Baños"
+    },
+    "k36": {
+      "en": "Handwashing Station",
+      "es": "Unidad de Lavado de Manos"
+    },
+    "k37": {
+      "en": " / month",
+      "es": " / mes"
+    },
+    "k38": {
+      "en": "Portable station for hygiene at events and job sites",
+      "es": "Estación portátil para higiene en eventos y obras"
+    },
+    "k39": {
+      "en": "Pairs with any restroom rental",
+      "es": "Se combina con cualquier renta de baños"
+    },
+    "k40": {
+      "en": "Request This",
+      "es": "Solicitar"
+    },
+    "k41": {
+      "en": "Blue Shade Structures on Trailer — 16ft",
+      "es": "Sombras Azules en Remolque — 16ft"
+    },
+    "k42": {
+      "en": " / month",
+      "es": " / mes"
+    },
+    "k43": {
+      "en": "Mobile shade for resting areas",
+      "es": "Sombra móvil para áreas de descanso"
+    },
+    "k44": {
+      "en": "Great for work sites & outdoor events",
+      "es": "Ideal para obras y eventos al aire libre"
+    },
+    "k45": {
+      "en": "Request This",
+      "es": "Solicitar"
+    },
+    "k46": {
+      "en": "Blue Utility Trailers",
+      "es": "Plataformas de Remolque Azules"
+    },
+    "k47": {
+      "en": "For transporting restrooms or other loads",
+      "es": "Para transportar baños u otro tipo de carga"
+    },
+    "k48": {
+      "en": "Flatbed platform design",
+      "es": "Diseño de plataforma plana"
+    },
+    "k49": {
+      "en": "Request This",
+      "es": "Solicitar"
+    },
+    "k50": {
+      "en": "Light Towers",
+      "es": "Torres de Iluminación"
+    },
+    "k51": {
+      "en": "Mobile units with reflectors",
+      "es": "Unidades móviles con reflectores"
+    },
+    "k52": {
+      "en": "Light up work areas after dark",
+      "es": "Iluminan áreas de trabajo después del anochecer"
+    },
+    "k53": {
+      "en": "Request This",
+      "es": "Solicitar"
+    },
+    "k54": {
+      "en": "Generators on Trailer",
+      "es": "Generadores en Remolque"
+    },
+    "k55": {
+      "en": " / month",
+      "es": " / mes"
+    },
+    "k56": {
+      "en": "Includes water tank & pump",
+      "es": "Incluye tanque de agua y bomba"
+    },
+    "k57": {
+      "en": "Support for field operations",
+      "es": "Apoyo para operaciones en campo"
+    },
+    "k58": {
+      "en": "Request This",
+      "es": "Solicitar"
+    },
+    "k59": {
+      "en": "Cargo Containers — 40 ft",
+      "es": "Contenedores de Carga — 40 ft"
+    },
+    "k60": {
+      "en": " / month",
+      "es": " / mes"
+    },
+    "k61": {
+      "en": "Available in green & red, shipping-container style",
+      "es": "Disponibles en color verde y rojo, tipo marítimo"
+    },
+    "k62": {
+      "en": "Secure on-site storage",
+      "es": "Almacenamiento seguro en sitio"
+    },
+    "k63": {
+      "en": "Request This",
+      "es": "Solicitar"
+    },
+    "k64": {
+      "en": "O&A crew loading a blue shade structure onto a utility trailer at the Coachella yard",
+      "es": "Cuadrilla de O&A cargando una estructura de sombra azul en un remolque utilitario en el patio de Coachella"
+    },
+    "k65": {
+      "en": "One Vendor, Full Site Coverage",
+      "es": "Un Solo Proveedor, Cobertura Completa"
+    },
+    "k66": {
+      "en": "Combine Equipment With Restroom Rentals",
+      "es": "Combine Equipo con Renta de Baños"
+    },
+    "k67": {
+      "en": "Most of our construction and event clients pair this equipment with our ",
+      "es": "La mayoría de nuestros clientes de construcción y eventos combinan este equipo con nuestras "
+    },
+    "k68": {
+      "en": "portable restroom units",
+      "es": "unidades de baños portátiles"
+    },
+    "k69": {
+      "en": " or ",
+      "es": " o "
+    },
+    "k70": {
+      "en": "luxury trailers",
+      "es": "remolques de lujo"
+    },
+    "k71": {
+      "en": " — one call sets up your whole site.",
+      "es": " — una sola llamada organiza todo su sitio."
+    },
+    "k72": {
+      "en": " Delivery and pickup coordinated on your schedule",
+      "es": " Entrega y recolección coordinadas según su calendario"
+    },
+    "k73": {
+      "en": " Monthly and short-term rates available",
+      "es": " Tarifas mensuales y de corto plazo disponibles"
+    },
+    "k74": {
+      "en": " Ask about bundled pricing for multi-equipment orders",
+      "es": " Pregunte por precios combinados para pedidos de varios equipos"
+    },
+    "k75": {
+      "en": "Get a Bundled Quote",
+      "es": "Obtener Cotización Combinada"
+    },
+    "k76": {
+      "en": "Setting up a job site or outdoor event?",
+      "es": "¿Está preparando una obra o evento al aire libre?"
+    },
+    "k77": {
+      "en": "Tell us what you need — restrooms, power, light, shade, storage — and we'll quote it as one order.",
+      "es": "Díganos qué necesita — baños, energía, luz, sombra, almacenamiento — y se lo cotizamos como un solo pedido."
+    },
+    "k78": {
+      "en": "Request a Quote",
+      "es": "Solicitar Cotización"
+    },
+    "k79": {
+      "en": "Portable restroom, septic pumping, and event/construction equipment rentals serving the Coachella Valley, CA.",
+      "es": "Renta de baños portátiles, limpieza séptica y equipo para construcción/eventos en el Valle de Coachella, CA."
+    },
+    "k80": {
+      "en": "License B-1002207 · Licensed & Bonded",
+      "es": "Licencia B-1002207 · Licenciados y Afianzados"
+    },
+    "k81": {
+      "en": "Services",
+      "es": "Servicios"
+    },
+    "k82": {
+      "en": "Portable Restrooms",
+      "es": "Baños Portátiles"
+    },
+    "k83": {
+      "en": "Luxury & VIP Trailers",
+      "es": "Baños de Lujo y VIP"
+    },
+    "k84": {
+      "en": "Septic Tank Pumping",
+      "es": "Limpieza de Fosas Sépticas"
+    },
+    "k85": {
+      "en": "Construction Equipment",
+      "es": "Equipo de Construcción"
+    },
+    "k86": {
+      "en": "Company",
+      "es": "Compañía"
+    },
+    "k87": {
+      "en": "About Us",
+      "es": "Nosotros"
+    },
+    "k88": {
+      "en": "Service Area",
+      "es": "Zona de Servicio"
+    },
+    "k89": {
+      "en": "Contact",
+      "es": "Contacto"
+    },
+    "k90": {
+      "en": "Español",
+      "es": "English"
+    },
+    "k91": {
+      "en": "Contact",
+      "es": "Contacto"
+    },
+    "k92": {
+      "en": "© 2026 O&A Restroom Portables, Inc. All rights reserved.",
+      "es": "© 2026 O&A Restroom Portables, Inc. Todos los derechos reservados."
+    },
+    "k93": {
+      "en": "License B-1002207",
+      "es": "Licencia B-1002207"
+    }
+  }
+}

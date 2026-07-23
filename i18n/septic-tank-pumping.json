@@ -1,0 +1,284 @@
+{
+  "translations": {
+    "k1": {
+      "en": "Septic Tank Pumping & Cleaning in Coachella Valley | $550/1,000 Gal | O&A",
+      "es": "Limpieza de Fosas Sépticas en el Valle de Coachella | $550/1,000 Gal | O&A"
+    },
+    "k2": {
+      "en": "Professional septic tank pumping and cleaning across the Coachella Valley — $550 per 1,000 gallons. Licensed, bonded, dedicated extraction trucks. Call (760) 701-0814.",
+      "es": "Bombeo y limpieza profesional de fosas sépticas en todo el Valle de Coachella — $550 por 1,000 galones. Licenciados, afianzados, camiones de extracción propios. Llame al (760) 701-0814."
+    },
+    "k3": {
+      "en": "Septic Tank Pumping & Cleaning | O&A Restroom Portables, Inc.",
+      "es": "Limpieza de Fosas Sépticas | O&A Restroom Portables, Inc."
+    },
+    "k4": {
+      "en": "Professional septic pumping and cleaning across the Coachella Valley — $550 per 1,000 gallons.",
+      "es": "Bombeo y limpieza profesional de fosas sépticas en el Valle de Coachella — $550 por 1,000 galones."
+    },
+    "k5": {
+      "en": "https://oarestroomservices.com/septic-tank-pumping.html",
+      "es": "https://oarestroomservices.com/es/limpieza-fosas-septicas.html"
+    },
+    "k6": {
+      "en": "en_US",
+      "es": "es_ES"
+    },
+    "k7": {
+      "en": "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Septic Tank Pumping and Cleaning\",\n  \"provider\": {\"@type\": \"LocalBusiness\", \"name\": \"O&A Restroom Portables, Inc.\", \"telephone\": \"+1-760-701-0814\", \"url\": \"https://oarestroomservices.com/\"},\n  \"areaServed\": {\"@type\": \"Place\", \"name\": \"Coachella Valley, CA\"},\n  \"offers\": [\n    {\"@type\": \"Offer\", \"name\": \"Septic Tank Pumping & Cleaning\", \"price\": \"550.00\", \"priceCurrency\": \"USD\", \"description\": \"Per 1,000 gallons\"}\n  ]\n}\n",
+      "es": "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Limpieza y Bombeo de Fosas Sépticas\",\n  \"provider\": {\"@type\": \"LocalBusiness\", \"name\": \"O&A Restroom Portables, Inc.\", \"telephone\": \"+1-760-701-0814\", \"url\": \"https://oarestroomservices.com/\"},\n  \"areaServed\": {\"@type\": \"Place\", \"name\": \"Valle de Coachella, CA\"},\n  \"offers\": [\n    {\"@type\": \"Offer\", \"name\": \"Limpieza de Fosas Sépticas\", \"price\": \"550.00\", \"priceCurrency\": \"USD\", \"description\": \"Por 1,000 galones\"}\n  ]\n}\n"
+    },
+    "k8": {
+      "en": "Skip to content",
+      "es": "Saltar al contenido"
+    },
+    "k9": {
+      "en": "License B-1002207 · Licensed & Bonded",
+      "es": "Licencia B-1002207 · Licenciados y Afianzados"
+    },
+    "k10": {
+      "en": "Español",
+      "es": "English"
+    },
+    "k11": {
+      "en": "Coachella Valley, CA",
+      "es": "Valle de Coachella, CA"
+    },
+    "k12": {
+      "en": "Toggle menu",
+      "es": "Alternar menú"
+    },
+    "k13": {
+      "en": "Home",
+      "es": "Inicio"
+    },
+    "k14": {
+      "en": "Portable",
+      "es": "Baños"
+    },
+    "k15": {
+      "en": "Restrooms",
+      "es": "Portátiles"
+    },
+    "k16": {
+      "en": "Luxury",
+      "es": "Baños"
+    },
+    "k17": {
+      "en": "Restrooms",
+      "es": "de Lujo"
+    },
+    "k18": {
+      "en": "Septic",
+      "es": "Limpieza"
+    },
+    "k19": {
+      "en": "Pumping",
+      "es": "Séptica"
+    },
+    "k20": {
+      "en": "Construction",
+      "es": "Equipo de"
+    },
+    "k21": {
+      "en": "Equipment",
+      "es": "Construcción"
+    },
+    "k22": {
+      "en": "Service",
+      "es": "Zona de"
+    },
+    "k23": {
+      "en": "Area",
+      "es": "Servicio"
+    },
+    "k24": {
+      "en": "About",
+      "es": "Nosotros"
+    },
+    "k25": {
+      "en": "Contact",
+      "es": "Contacto"
+    },
+    "k26": {
+      "en": "Get a Quote",
+      "es": "Cotizar Ahora"
+    },
+    "k27": {
+      "en": "Home",
+      "es": "Inicio"
+    },
+    "k28": {
+      "en": " / Septic Tank Pumping",
+      "es": " / Limpieza de Fosas Sépticas"
+    },
+    "k29": {
+      "en": "Licensed Extraction Trucks · Coachella Valley",
+      "es": "Camiones de Extracción Licenciados · Valle de Coachella"
+    },
+    "k30": {
+      "en": "Septic Tank Pumping & Cleaning",
+      "es": "Limpieza y Bombeo de Fosas Sépticas"
+    },
+    "k31": {
+      "en": "Our own fleet of extraction trucks handles septic pumping and tank cleaning for homes, ranches, and job sites across the Valley — professional service at a straightforward rate.",
+      "es": "Nuestra propia flotilla de camiones de extracción se encarga del bombeo y limpieza de fosas sépticas para casas, ranchos y obras en todo el Valle — servicio profesional a una tarifa clara."
+    },
+    "k32": {
+      "en": "Request Service",
+      "es": "Solicitar Servicio"
+    },
+    "k33": {
+      "en": "Call (760) 701-0814",
+      "es": "Llamar (760) 701-0814"
+    },
+    "k34": {
+      "en": "O&A stainless steel septic extraction trucks parked in the service yard among Coachella Valley palm groves",
+      "es": "Camiones de extracción séptica de acero inoxidable de O&A estacionados en el patio de servicio entre palmeras del Valle de Coachella"
+    },
+    "k35": {
+      "en": "Professional Service",
+      "es": "Servicio Profesional"
+    },
+    "k36": {
+      "en": "OA Trucks with Extraction Tanks",
+      "es": "Camionetas OA con Tanque"
+    },
+    "k37": {
+      "en": " / 1,000 gallons",
+      "es": " / 1,000 galones"
+    },
+    "k38": {
+      "en": "Professional pumping & cleaning service",
+      "es": "Servicio profesional de bombeo y limpieza"
+    },
+    "k39": {
+      "en": "Serves septic systems for homes, ranches & job sites",
+      "es": "Atiende sistemas sépticos de casas, ranchos y obras"
+    },
+    "k40": {
+      "en": "Dedicated extraction tank trucks, dispatched from Coachella",
+      "es": "Camiones de extracción dedicados, despachados desde Coachella"
+    },
+    "k41": {
+      "en": "Request Septic Service",
+      "es": "Solicitar Servicio Séptico"
+    },
+    "k42": {
+      "en": "Why It Matters",
+      "es": "Por Qué Importa"
+    },
+    "k43": {
+      "en": "Keep Your System Running & Avoid Costly Backups",
+      "es": "Mantenga su Sistema Funcionando y Evite Desbordamientos Costosos"
+    },
+    "k44": {
+      "en": "Regular septic pumping prevents overflows, protects your leach field, and keeps your property — or your job site's temporary systems — running without interruption.",
+      "es": "El bombeo regular previene desbordamientos, protege su campo de drenaje y mantiene su propiedad — o los sistemas temporales de su obra — funcionando sin interrupciones."
+    },
+    "k45": {
+      "en": "Routine Maintenance",
+      "es": "Mantenimiento Rutinario"
+    },
+    "k46": {
+      "en": "Scheduled pumping keeps residential and commercial septic systems working properly year-round.",
+      "es": "El bombeo programado mantiene los sistemas sépticos residenciales y comerciales funcionando correctamente todo el año."
+    },
+    "k47": {
+      "en": "Licensed & Bonded",
+      "es": "Licenciados y Afianzados"
+    },
+    "k48": {
+      "en": "Operating under license B-1002207, our crews handle extraction safely and in line with local requirements.",
+      "es": "Operamos bajo la licencia B-1002207, y nuestras cuadrillas manejan la extracción de forma segura y conforme a los requisitos locales."
+    },
+    "k49": {
+      "en": "Job Site Support",
+      "es": "Apoyo para Obras"
+    },
+    "k50": {
+      "en": "Pair septic pumping with our ",
+      "es": "Combine la limpieza séptica con nuestra "
+    },
+    "k51": {
+      "en": "portable restroom rentals",
+      "es": "renta de baños portátiles"
+    },
+    "k52": {
+      "en": " to keep construction sites fully serviced.",
+      "es": " para mantener su obra completamente atendida."
+    },
+    "k53": {
+      "en": "Need a septic tank pump-out?",
+      "es": "¿Necesita el bombeo de una fosa séptica?"
+    },
+    "k54": {
+      "en": "Call now or send your address and tank size for a fast quote.",
+      "es": "Llame ahora o envíe su dirección y el tamaño del tanque para una cotización rápida."
+    },
+    "k55": {
+      "en": "Request a Quote",
+      "es": "Solicitar Cotización"
+    },
+    "k56": {
+      "en": "Portable restroom, septic pumping, and event/construction equipment rentals serving the Coachella Valley, CA.",
+      "es": "Renta de baños portátiles, limpieza séptica y equipo para construcción/eventos en el Valle de Coachella, CA."
+    },
+    "k57": {
+      "en": "License B-1002207 · Licensed & Bonded",
+      "es": "Licencia B-1002207 · Licenciados y Afianzados"
+    },
+    "k58": {
+      "en": "Services",
+      "es": "Servicios"
+    },
+    "k59": {
+      "en": "Portable Restrooms",
+      "es": "Baños Portátiles"
+    },
+    "k60": {
+      "en": "Luxury & VIP Trailers",
+      "es": "Baños de Lujo y VIP"
+    },
+    "k61": {
+      "en": "Septic Tank Pumping",
+      "es": "Limpieza de Fosas Sépticas"
+    },
+    "k62": {
+      "en": "Construction Equipment",
+      "es": "Equipo de Construcción"
+    },
+    "k63": {
+      "en": "Company",
+      "es": "Compañía"
+    },
+    "k64": {
+      "en": "About Us",
+      "es": "Nosotros"
+    },
+    "k65": {
+      "en": "Service Area",
+      "es": "Zona de Servicio"
+    },
+    "k66": {
+      "en": "Contact",
+      "es": "Contacto"
+    },
+    "k67": {
+      "en": "Español",
+      "es": "English"
+    },
+    "k68": {
+      "en": "Contact",
+      "es": "Contacto"
+    },
+    "k69": {
+      "en": "© 2026 O&A Restroom Portables, Inc. All rights reserved.",
+      "es": "© 2026 O&A Restroom Portables, Inc. Todos los derechos reservados."
+    },
+    "k70": {
+      "en": "License B-1002207",
+      "es": "Licencia B-1002207"
+    }
+  }
+}

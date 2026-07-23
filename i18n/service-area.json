@@ -1,0 +1,260 @@
+{
+  "translations": {
+    "k1": {
+      "en": "Service Area | Portable Restroom & Septic Rentals Across the Coachella Valley",
+      "es": "Zona de Servicio | Renta de Baños Portátiles y Servicio Séptico en el Valle de Coachella"
+    },
+    "k2": {
+      "en": "O&A Restroom Portables, Inc. delivers portable restrooms, septic pumping, and equipment rentals to Coachella, Indio, Mecca, Thermal, La Quinta, Palm Desert, Palm Springs, and the whole Coachella Valley.",
+      "es": "O&A Restroom Portables, Inc. entrega baños portátiles, limpieza séptica y equipo de renta a Coachella, Indio, Mecca, Thermal, La Quinta, Palm Desert, Palm Springs y todo el Valle de Coachella."
+    },
+    "k3": {
+      "en": "Service Area | O&A Restroom Portables, Inc.",
+      "es": "Zona de Servicio | O&A Restroom Portables, Inc."
+    },
+    "k4": {
+      "en": "Portable restroom and septic service delivered across the entire Coachella Valley.",
+      "es": "Servicio de baños portátiles y sépticos en todo el Valle de Coachella."
+    },
+    "k5": {
+      "en": "https://oarestroomservices.com/service-area.html",
+      "es": "https://oarestroomservices.com/es/zona-de-servicio.html"
+    },
+    "k6": {
+      "en": "en_US",
+      "es": "es_ES"
+    },
+    "k7": {
+      "en": "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"O&A Restroom Portables, Inc.\",\n  \"telephone\": \"+1-760-701-0814\",\n  \"url\": \"https://oarestroomservices.com/\",\n  \"address\": {\"@type\": \"PostalAddress\", \"streetAddress\": \"83533 Ashler Ct\", \"addressLocality\": \"Coachella\", \"addressRegion\": \"CA\", \"postalCode\": \"92236\", \"addressCountry\": \"US\"},\n  \"areaServed\": [\n    {\"@type\": \"City\", \"name\": \"Coachella, CA\"},\n    {\"@type\": \"City\", \"name\": \"Indio, CA\"},\n    {\"@type\": \"City\", \"name\": \"Mecca, CA\"},\n    {\"@type\": \"City\", \"name\": \"Thermal, CA\"},\n    {\"@type\": \"City\", \"name\": \"La Quinta, CA\"},\n    {\"@type\": \"City\", \"name\": \"Palm Desert, CA\"},\n    {\"@type\": \"City\", \"name\": \"Palm Springs, CA\"},\n    {\"@type\": \"City\", \"name\": \"Cathedral City, CA\"},\n    {\"@type\": \"City\", \"name\": \"Rancho Mirage, CA\"},\n    {\"@type\": \"City\", \"name\": \"Desert Hot Springs, CA\"},\n    {\"@type\": \"City\", \"name\": \"Bermuda Dunes, CA\"},\n    {\"@type\": \"City\", \"name\": \"North Shore, CA\"}\n  ]\n}\n",
+      "es": "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"O&A Restroom Portables, Inc.\",\n  \"telephone\": \"+1-760-701-0814\",\n  \"url\": \"https://oarestroomservices.com/es/\",\n  \"address\": {\"@type\": \"PostalAddress\", \"streetAddress\": \"83533 Ashler Ct\", \"addressLocality\": \"Coachella\", \"addressRegion\": \"CA\", \"postalCode\": \"92236\", \"addressCountry\": \"US\"},\n  \"areaServed\": [\n    {\"@type\": \"City\", \"name\": \"Coachella, CA\"},\n    {\"@type\": \"City\", \"name\": \"Indio, CA\"},\n    {\"@type\": \"City\", \"name\": \"Mecca, CA\"},\n    {\"@type\": \"City\", \"name\": \"Thermal, CA\"},\n    {\"@type\": \"City\", \"name\": \"La Quinta, CA\"},\n    {\"@type\": \"City\", \"name\": \"Palm Desert, CA\"},\n    {\"@type\": \"City\", \"name\": \"Palm Springs, CA\"},\n    {\"@type\": \"City\", \"name\": \"Cathedral City, CA\"},\n    {\"@type\": \"City\", \"name\": \"Rancho Mirage, CA\"},\n    {\"@type\": \"City\", \"name\": \"Desert Hot Springs, CA\"},\n    {\"@type\": \"City\", \"name\": \"Bermuda Dunes, CA\"},\n    {\"@type\": \"City\", \"name\": \"North Shore, CA\"}\n  ]\n}\n"
+    },
+    "k8": {
+      "en": "Skip to content",
+      "es": "Saltar al contenido"
+    },
+    "k9": {
+      "en": "License B-1002207 · Licensed & Bonded",
+      "es": "Licencia B-1002207 · Licenciados y Afianzados"
+    },
+    "k10": {
+      "en": "Español",
+      "es": "English"
+    },
+    "k11": {
+      "en": "Coachella Valley, CA",
+      "es": "Valle de Coachella, CA"
+    },
+    "k12": {
+      "en": "Toggle menu",
+      "es": "Alternar menú"
+    },
+    "k13": {
+      "en": "Home",
+      "es": "Inicio"
+    },
+    "k14": {
+      "en": "Portable",
+      "es": "Baños"
+    },
+    "k15": {
+      "en": "Restrooms",
+      "es": "Portátiles"
+    },
+    "k16": {
+      "en": "Luxury",
+      "es": "Baños"
+    },
+    "k17": {
+      "en": "Restrooms",
+      "es": "de Lujo"
+    },
+    "k18": {
+      "en": "Septic",
+      "es": "Limpieza"
+    },
+    "k19": {
+      "en": "Pumping",
+      "es": "Séptica"
+    },
+    "k20": {
+      "en": "Construction",
+      "es": "Equipo de"
+    },
+    "k21": {
+      "en": "Equipment",
+      "es": "Construcción"
+    },
+    "k22": {
+      "en": "Service",
+      "es": "Zona de"
+    },
+    "k23": {
+      "en": "Area",
+      "es": "Servicio"
+    },
+    "k24": {
+      "en": "About",
+      "es": "Nosotros"
+    },
+    "k25": {
+      "en": "Contact",
+      "es": "Contacto"
+    },
+    "k26": {
+      "en": "Get a Quote",
+      "es": "Cotizar Ahora"
+    },
+    "k27": {
+      "en": "Home",
+      "es": "Inicio"
+    },
+    "k28": {
+      "en": " / Service Area",
+      "es": " / Zona de Servicio"
+    },
+    "k29": {
+      "en": "Based in Coachella, CA",
+      "es": "Con Base en Coachella, CA"
+    },
+    "k30": {
+      "en": "Serving the Entire Coachella Valley",
+      "es": "Servimos Todo el Valle de Coachella"
+    },
+    "k31": {
+      "en": "Dispatched from our Coachella yard, our trucks and trailers reach every corner of the Valley — from Desert Hot Springs to the Salton Sea.",
+      "es": "Despachados desde nuestro patio en Coachella, nuestros camiones y remolques llegan a cada rincón del Valle — desde Desert Hot Springs hasta el Mar de Salton."
+    },
+    "k32": {
+      "en": "Check My Address",
+      "es": "Verificar mi Dirección"
+    },
+    "k33": {
+      "en": "Call (760) 701-0814",
+      "es": "Llamar (760) 701-0814"
+    },
+    "k34": {
+      "en": "Cities We Serve",
+      "es": "Ciudades que Atendemos"
+    },
+    "k35": {
+      "en": "Coachella Valley Coverage",
+      "es": "Cobertura en el Valle de Coachella"
+    },
+    "k36": {
+      "en": "If you're anywhere in this list, we can deliver portable restrooms, luxury trailers, septic pumping, and job-site equipment to you.",
+      "es": "Si usted se encuentra en cualquiera de estas ciudades, podemos entregarle baños portátiles, remolques de lujo, limpieza séptica y equipo para obras."
+    },
+    "k37": {
+      "en": "Not seeing your location? ",
+      "es": "¿No ve su ubicación? "
+    },
+    "k38": {
+      "en": "Contact us",
+      "es": "Contáctenos"
+    },
+    "k39": {
+      "en": " — we regularly serve job sites and events just outside these boundaries too.",
+      "es": " — con frecuencia atendemos obras y eventos justo fuera de estos límites también."
+    },
+    "k40": {
+      "en": "Local & Dispatched Fast",
+      "es": "Locales y Despacho Rápido"
+    },
+    "k41": {
+      "en": "Why Location Matters for Your Rental",
+      "es": "Por Qué la Ubicación Importa para su Renta"
+    },
+    "k42": {
+      "en": "Being based in Coachella means shorter drive times to your site, faster response for service calls, and a crew that knows the Valley's roads, HOAs, and event venues.",
+      "es": "Estar basados en Coachella significa tiempos de viaje más cortos hacia su sitio, respuesta más rápida para llamadas de servicio, y una cuadrilla que conoce las carreteras, HOAs y salones de eventos del Valle."
+    },
+    "k43": {
+      "en": " Faster delivery and pickup scheduling",
+      "es": " Programación de entrega y recolección más rápida"
+    },
+    "k44": {
+      "en": " Local knowledge of venues & job sites",
+      "es": " Conocimiento local de salones de eventos y obras"
+    },
+    "k45": {
+      "en": " Quick-response septic pumping when you need it",
+      "es": " Bombeo séptico de respuesta rápida cuando lo necesite"
+    },
+    "k46": {
+      "en": "O&A flatbed truck delivering portable restrooms to a Coachella Valley job site",
+      "es": "Camión de plataforma de O&A entregando baños portátiles a una obra en el Valle de Coachella"
+    },
+    "k47": {
+      "en": "Confirm we service your address",
+      "es": "Confirme que damos servicio a su dirección"
+    },
+    "k48": {
+      "en": "Send us your location and job details and we'll confirm delivery timing right away.",
+      "es": "Envíenos su ubicación y detalles del trabajo y confirmamos el tiempo de entrega de inmediato."
+    },
+    "k49": {
+      "en": "Request a Quote",
+      "es": "Solicitar Cotización"
+    },
+    "k50": {
+      "en": "Portable restroom, septic pumping, and event/construction equipment rentals serving the Coachella Valley, CA.",
+      "es": "Renta de baños portátiles, limpieza séptica y equipo para construcción/eventos en el Valle de Coachella, CA."
+    },
+    "k51": {
+      "en": "License B-1002207 · Licensed & Bonded",
+      "es": "Licencia B-1002207 · Licenciados y Afianzados"
+    },
+    "k52": {
+      "en": "Services",
+      "es": "Servicios"
+    },
+    "k53": {
+      "en": "Portable Restrooms",
+      "es": "Baños Portátiles"
+    },
+    "k54": {
+      "en": "Luxury & VIP Trailers",
+      "es": "Baños de Lujo y VIP"
+    },
+    "k55": {
+      "en": "Septic Tank Pumping",
+      "es": "Limpieza de Fosas Sépticas"
+    },
+    "k56": {
+      "en": "Construction Equipment",
+      "es": "Equipo de Construcción"
+    },
+    "k57": {
+      "en": "Company",
+      "es": "Compañía"
+    },
+    "k58": {
+      "en": "About Us",
+      "es": "Nosotros"
+    },
+    "k59": {
+      "en": "Service Area",
+      "es": "Zona de Servicio"
+    },
+    "k60": {
+      "en": "Contact",
+      "es": "Contacto"
+    },
+    "k61": {
+      "en": "Español",
+      "es": "English"
+    },
+    "k62": {
+      "en": "Contact",
+      "es": "Contacto"
+    },
+    "k63": {
+      "en": "© 2026 O&A Restroom Portables, Inc. All rights reserved.",
+      "es": "© 2026 O&A Restroom Portables, Inc. Todos los derechos reservados."
+    },
+    "k64": {
+      "en": "License B-1002207",
+      "es": "Licencia B-1002207"
+    }
+  }
+}

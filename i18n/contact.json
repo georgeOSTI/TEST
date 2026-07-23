@@ -1,0 +1,344 @@
+{
+  "translations": {
+    "k1": {
+      "en": "Contact O&A Restroom Portables, Inc. | Request a Quote | Coachella, CA",
+      "es": "Contacto O&A Restroom Portables, Inc. | Solicite una Cotización | Coachella, CA"
+    },
+    "k2": {
+      "en": "Request a free quote for portable restrooms, luxury trailers, septic pumping, or job-site equipment. Call (760) 701-0814 or email oarenas@oarestroomservices.com.",
+      "es": "Solicite una cotización gratis para baños portátiles, remolques de lujo, limpieza séptica o equipo para obras. Llame al (760) 701-0814 o escriba a oarenas@oarestroomservices.com."
+    },
+    "k3": {
+      "en": "Contact O&A Restroom Portables, Inc.",
+      "es": "Contacto O&A Restroom Portables, Inc."
+    },
+    "k4": {
+      "en": "Request a free quote for portable restrooms, luxury trailers, septic pumping, or job-site equipment.",
+      "es": "Solicite una cotización gratis para baños portátiles, remolques de lujo, limpieza séptica o equipo para obras."
+    },
+    "k5": {
+      "en": "https://oarestroomservices.com/contact.html",
+      "es": "https://oarestroomservices.com/es/contacto.html"
+    },
+    "k6": {
+      "en": "en_US",
+      "es": "es_ES"
+    },
+    "k7": {
+      "en": "Skip to content",
+      "es": "Saltar al contenido"
+    },
+    "k8": {
+      "en": "License B-1002207 · Licensed & Bonded",
+      "es": "Licencia B-1002207 · Licenciados y Afianzados"
+    },
+    "k9": {
+      "en": "Español",
+      "es": "English"
+    },
+    "k10": {
+      "en": "Coachella Valley, CA",
+      "es": "Valle de Coachella, CA"
+    },
+    "k11": {
+      "en": "Toggle menu",
+      "es": "Alternar menú"
+    },
+    "k12": {
+      "en": "Home",
+      "es": "Inicio"
+    },
+    "k13": {
+      "en": "Portable",
+      "es": "Baños"
+    },
+    "k14": {
+      "en": "Restrooms",
+      "es": "Portátiles"
+    },
+    "k15": {
+      "en": "Luxury",
+      "es": "Baños"
+    },
+    "k16": {
+      "en": "Restrooms",
+      "es": "de Lujo"
+    },
+    "k17": {
+      "en": "Septic",
+      "es": "Limpieza"
+    },
+    "k18": {
+      "en": "Pumping",
+      "es": "Séptica"
+    },
+    "k19": {
+      "en": "Construction",
+      "es": "Equipo de"
+    },
+    "k20": {
+      "en": "Equipment",
+      "es": "Construcción"
+    },
+    "k21": {
+      "en": "Service",
+      "es": "Zona de"
+    },
+    "k22": {
+      "en": "Area",
+      "es": "Servicio"
+    },
+    "k23": {
+      "en": "About",
+      "es": "Nosotros"
+    },
+    "k24": {
+      "en": "Contact",
+      "es": "Contacto"
+    },
+    "k25": {
+      "en": "Get a Quote",
+      "es": "Cotizar Ahora"
+    },
+    "k26": {
+      "en": "Home",
+      "es": "Inicio"
+    },
+    "k27": {
+      "en": " / Contact",
+      "es": " / Contacto"
+    },
+    "k28": {
+      "en": "Free Quotes · Same-Day Response",
+      "es": "Cotizaciones Gratis · Respuesta el Mismo Día"
+    },
+    "k29": {
+      "en": "Request a Quote",
+      "es": "Solicite una Cotización"
+    },
+    "k30": {
+      "en": "Tell us what you need and we'll get back to you with pricing and availability — usually the same day.",
+      "es": "Cuéntenos qué necesita y le responderemos con precios y disponibilidad — generalmente el mismo día."
+    },
+    "k31": {
+      "en": "Your Quote List",
+      "es": "Su Lista de Cotización"
+    },
+    "k32": {
+      "en": "Send Us Your Job Details",
+      "es": "Envíenos los Detalles de su Trabajo"
+    },
+    "k33": {
+      "en": "Full Name",
+      "es": "Nombre Completo"
+    },
+    "k34": {
+      "en": "Phone Number",
+      "es": "Número de Teléfono"
+    },
+    "k35": {
+      "en": "Email Address",
+      "es": "Correo Electrónico"
+    },
+    "k36": {
+      "en": "Delivery City / ZIP",
+      "es": "Ciudad / Código Postal de Entrega"
+    },
+    "k37": {
+      "en": "e.g. Indio, CA 92201",
+      "es": "ej. Indio, CA 92201"
+    },
+    "k38": {
+      "en": "What do you need?",
+      "es": "¿Qué necesita?"
+    },
+    "k39": {
+      "en": "Standard Floor Restroom",
+      "es": "Baño Estándar de Piso"
+    },
+    "k40": {
+      "en": "Standard Restroom on Trailer",
+      "es": "Baño Estándar en Remolque"
+    },
+    "k41": {
+      "en": "Double Restroom on Trailer",
+      "es": "Baño Doble en Remolque"
+    },
+    "k42": {
+      "en": "Triple Restroom on Trailer",
+      "es": "Baño Triple en Remolque"
+    },
+    "k43": {
+      "en": "ADA Accessible Restroom",
+      "es": "Baño ADA Accesible"
+    },
+    "k44": {
+      "en": "VIP Restroom on Trailer",
+      "es": "Baño VIP en Remolque"
+    },
+    "k45": {
+      "en": "Luxury Trailer Restroom",
+      "es": "Baño de Lujo Tipo Trailer"
+    },
+    "k46": {
+      "en": "Handwashing Station",
+      "es": "Unidad de Lavado de Manos"
+    },
+    "k47": {
+      "en": "Septic Tank Pumping",
+      "es": "Limpieza de Fosa Séptica"
+    },
+    "k48": {
+      "en": "Shade Structure",
+      "es": "Estructura de Sombra"
+    },
+    "k49": {
+      "en": "Utility Trailer",
+      "es": "Remolque Utilitario"
+    },
+    "k50": {
+      "en": "Light Tower",
+      "es": "Torre de Iluminación"
+    },
+    "k51": {
+      "en": "Generator",
+      "es": "Generador"
+    },
+    "k52": {
+      "en": "Cargo Container",
+      "es": "Contenedor de Carga"
+    },
+    "k53": {
+      "en": "Not sure — help me choose",
+      "es": "No estoy seguro — ayúdenme a elegir"
+    },
+    "k54": {
+      "en": "Date Needed",
+      "es": "Fecha Requerida"
+    },
+    "k55": {
+      "en": "Rental Duration",
+      "es": "Duración de la Renta"
+    },
+    "k56": {
+      "en": "e.g. 3 months, 1 day",
+      "es": "ej. 3 meses, 1 día"
+    },
+    "k57": {
+      "en": "Job Details",
+      "es": "Detalles del Trabajo"
+    },
+    "k58": {
+      "en": "Tell us about your site or event — headcount, site access, anything else useful.",
+      "es": "Cuéntenos sobre su sitio o evento — aforo, acceso al sitio, cualquier otro detalle útil."
+    },
+    "k59": {
+      "en": "Submit Request",
+      "es": "Enviar Solicitud"
+    },
+    "k60": {
+      "en": "Prefer to talk it through? Call ",
+      "es": "¿Prefiere hablarlo directamente? Llame al "
+    },
+    "k61": {
+      "en": " — we're happy to help you pick the right equipment.",
+      "es": " — con gusto le ayudamos a elegir el equipo correcto."
+    },
+    "k62": {
+      "en": "Contact Information",
+      "es": "Información de Contacto"
+    },
+    "k63": {
+      "en": "Phone",
+      "es": "Teléfono"
+    },
+    "k64": {
+      "en": "Email",
+      "es": "Correo"
+    },
+    "k65": {
+      "en": "Address",
+      "es": "Dirección"
+    },
+    "k66": {
+      "en": "License",
+      "es": "Licencia"
+    },
+    "k67": {
+      "en": "B-1002207 · Licensed & Bonded",
+      "es": "B-1002207 · Licenciados y Afianzados"
+    },
+    "k68": {
+      "en": "Service Area",
+      "es": "Zona de Servicio"
+    },
+    "k69": {
+      "en": "Coachella Valley, CA — ",
+      "es": "Valle de Coachella, CA — "
+    },
+    "k70": {
+      "en": "view coverage",
+      "es": "ver cobertura"
+    },
+    "k71": {
+      "en": "Portable restroom, septic pumping, and event/construction equipment rentals serving the Coachella Valley, CA.",
+      "es": "Renta de baños portátiles, limpieza séptica y equipo para construcción/eventos en el Valle de Coachella, CA."
+    },
+    "k72": {
+      "en": "License B-1002207 · Licensed & Bonded",
+      "es": "Licencia B-1002207 · Licenciados y Afianzados"
+    },
+    "k73": {
+      "en": "Services",
+      "es": "Servicios"
+    },
+    "k74": {
+      "en": "Portable Restrooms",
+      "es": "Baños Portátiles"
+    },
+    "k75": {
+      "en": "Luxury & VIP Trailers",
+      "es": "Baños de Lujo y VIP"
+    },
+    "k76": {
+      "en": "Septic Tank Pumping",
+      "es": "Limpieza de Fosas Sépticas"
+    },
+    "k77": {
+      "en": "Construction Equipment",
+      "es": "Equipo de Construcción"
+    },
+    "k78": {
+      "en": "Company",
+      "es": "Compañía"
+    },
+    "k79": {
+      "en": "About Us",
+      "es": "Nosotros"
+    },
+    "k80": {
+      "en": "Service Area",
+      "es": "Zona de Servicio"
+    },
+    "k81": {
+      "en": "Contact",
+      "es": "Contacto"
+    },
+    "k82": {
+      "en": "Español",
+      "es": "English"
+    },
+    "k83": {
+      "en": "Contact",
+      "es": "Contacto"
+    },
+    "k84": {
+      "en": "© 2026 O&A Restroom Portables, Inc. All rights reserved.",
+      "es": "© 2026 O&A Restroom Portables, Inc. Todos los derechos reservados."
+    },
+    "k85": {
+      "en": "License B-1002207",
+      "es": "Licencia B-1002207"
+    }
+  }
+}

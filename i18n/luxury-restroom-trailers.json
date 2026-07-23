@@ -1,0 +1,316 @@
+{
+  "translations": {
+    "k1": {
+      "en": "Luxury & VIP Restroom Trailer Rentals | Weddings & Special Events | Coachella Valley",
+      "es": "Renta de Baños de Lujo y VIP | Bodas y Eventos Especiales | Valle de Coachella"
+    },
+    "k2": {
+      "en": "Air-conditioned VIP and luxury restroom trailers for weddings, quinceañeras, and special events across the Coachella Valley. Premium finishes, elegant comfort. From $800/mo.",
+      "es": "Remolques de baños VIP y de lujo con aire acondicionado para bodas, quinceañeras y eventos especiales en el Valle de Coachella. Acabados elegantes. Desde $800/mes."
+    },
+    "k3": {
+      "en": "Luxury & VIP Restroom Trailers | O&A Restroom Portables, Inc.",
+      "es": "Baños de Lujo y VIP | O&A Restroom Portables, Inc."
+    },
+    "k4": {
+      "en": "Air-conditioned VIP and luxury restroom trailers for weddings and special events in the Coachella Valley.",
+      "es": "Remolques VIP y de lujo con aire acondicionado para bodas y eventos especiales en el Valle de Coachella."
+    },
+    "k5": {
+      "en": "https://oarestroomservices.com/luxury-restroom-trailers.html",
+      "es": "https://oarestroomservices.com/es/banos-de-lujo.html"
+    },
+    "k6": {
+      "en": "en_US",
+      "es": "es_ES"
+    },
+    "k7": {
+      "en": "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Luxury Restroom Trailer Rental\",\n  \"provider\": {\"@type\": \"LocalBusiness\", \"name\": \"O&A Restroom Portables, Inc.\", \"telephone\": \"+1-760-701-0814\", \"url\": \"https://oarestroomservices.com/\"},\n  \"areaServed\": {\"@type\": \"Place\", \"name\": \"Coachella Valley, CA\"},\n  \"offers\": [\n    {\"@type\": \"Offer\", \"name\": \"VIP Restroom on Trailer\", \"price\": \"800.00\", \"priceCurrency\": \"USD\"},\n    {\"@type\": \"Offer\", \"name\": \"Luxury Trailer Restroom\", \"price\": \"800.00\", \"priceCurrency\": \"USD\"}\n  ]\n}\n",
+      "es": "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Renta de Baños de Lujo en Remolque\",\n  \"provider\": {\"@type\": \"LocalBusiness\", \"name\": \"O&A Restroom Portables, Inc.\", \"telephone\": \"+1-760-701-0814\", \"url\": \"https://oarestroomservices.com/\"},\n  \"areaServed\": {\"@type\": \"Place\", \"name\": \"Valle de Coachella, CA\"},\n  \"offers\": [\n    {\"@type\": \"Offer\", \"name\": \"Baño VIP en Remolque\", \"price\": \"800.00\", \"priceCurrency\": \"USD\"},\n    {\"@type\": \"Offer\", \"name\": \"Baño de Lujo Tipo Trailer\", \"price\": \"800.00\", \"priceCurrency\": \"USD\"}\n  ]\n}\n"
+    },
+    "k8": {
+      "en": "Skip to content",
+      "es": "Saltar al contenido"
+    },
+    "k9": {
+      "en": "License B-1002207 · Licensed & Bonded",
+      "es": "Licencia B-1002207 · Licenciados y Afianzados"
+    },
+    "k10": {
+      "en": "Español",
+      "es": "English"
+    },
+    "k11": {
+      "en": "Coachella Valley, CA",
+      "es": "Valle de Coachella, CA"
+    },
+    "k12": {
+      "en": "Toggle menu",
+      "es": "Alternar menú"
+    },
+    "k13": {
+      "en": "Home",
+      "es": "Inicio"
+    },
+    "k14": {
+      "en": "Portable",
+      "es": "Baños"
+    },
+    "k15": {
+      "en": "Restrooms",
+      "es": "Portátiles"
+    },
+    "k16": {
+      "en": "Luxury",
+      "es": "Baños"
+    },
+    "k17": {
+      "en": "Restrooms",
+      "es": "de Lujo"
+    },
+    "k18": {
+      "en": "Septic",
+      "es": "Limpieza"
+    },
+    "k19": {
+      "en": "Pumping",
+      "es": "Séptica"
+    },
+    "k20": {
+      "en": "Construction",
+      "es": "Equipo de"
+    },
+    "k21": {
+      "en": "Equipment",
+      "es": "Construcción"
+    },
+    "k22": {
+      "en": "Service",
+      "es": "Zona de"
+    },
+    "k23": {
+      "en": "Area",
+      "es": "Servicio"
+    },
+    "k24": {
+      "en": "About",
+      "es": "Nosotros"
+    },
+    "k25": {
+      "en": "Contact",
+      "es": "Contacto"
+    },
+    "k26": {
+      "en": "Get a Quote",
+      "es": "Cotizar Ahora"
+    },
+    "k27": {
+      "en": "Home",
+      "es": "Inicio"
+    },
+    "k28": {
+      "en": " / Luxury & VIP Restroom Trailers",
+      "es": " / Baños de Lujo y VIP"
+    },
+    "k29": {
+      "en": "Weddings · Quinceañeras · Special Events",
+      "es": "Bodas · Quinceañeras · Eventos Especiales"
+    },
+    "k30": {
+      "en": "Luxury & VIP Restroom Trailers",
+      "es": "Baños de Lujo y VIP en Remolque"
+    },
+    "k31": {
+      "en": "Air-conditioned, elegantly finished restroom trailers that keep your guests comfortable — built for weddings, private parties, and upscale events across the Coachella Valley.",
+      "es": "Remolques con aire acondicionado y acabados elegantes que mantienen a sus invitados cómodos — hechos para bodas, fiestas privadas y eventos exclusivos en el Valle de Coachella."
+    },
+    "k32": {
+      "en": "Request a Quote",
+      "es": "Solicitar Cotización"
+    },
+    "k33": {
+      "en": "Call (760) 701-0814",
+      "es": "Llamar (760) 701-0814"
+    },
+    "k34": {
+      "en": "Equipment & Pricing",
+      "es": "Equipo y Precios"
+    },
+    "k35": {
+      "en": "Premium Restroom Trailers",
+      "es": "Remolques de Baños Premium"
+    },
+    "k36": {
+      "en": "Both options are monthly rental rates — call us for custom short-term event pricing.",
+      "es": "Ambas opciones son tarifas mensuales — llámenos para precios de corto plazo para su evento."
+    },
+    "k37": {
+      "en": "Air Conditioned",
+      "es": "Aire Acondicionado"
+    },
+    "k38": {
+      "en": "VIP Restroom on Trailer",
+      "es": "Baño VIP en Remolque"
+    },
+    "k39": {
+      "en": " / month",
+      "es": " / mes"
+    },
+    "k40": {
+      "en": "Air conditioning and interior lighting",
+      "es": "Aire acondicionado e iluminación"
+    },
+    "k41": {
+      "en": "Ideal for special events",
+      "es": "Ideal para eventos especiales"
+    },
+    "k42": {
+      "en": "Trailer-mounted for easy placement",
+      "es": "Montado en remolque para fácil colocación"
+    },
+    "k43": {
+      "en": "Request This Trailer",
+      "es": "Solicitar Este Remolque"
+    },
+    "k44": {
+      "en": "Premium Finishes",
+      "es": "Acabados Premium"
+    },
+    "k45": {
+      "en": "Luxury Trailer Restroom",
+      "es": "Baño de Lujo Tipo Trailer"
+    },
+    "k46": {
+      "en": " / month",
+      "es": " / mes"
+    },
+    "k47": {
+      "en": "Premium units with elegant finishes",
+      "es": "Unidades premium con acabados elegantes"
+    },
+    "k48": {
+      "en": "Superior comfort for guests",
+      "es": "Confort superior para invitados"
+    },
+    "k49": {
+      "en": "Best for weddings & upscale events",
+      "es": "Ideal para bodas y eventos exclusivos"
+    },
+    "k50": {
+      "en": "Request This Trailer",
+      "es": "Solicitar Este Remolque"
+    },
+    "k51": {
+      "en": "Why Rent Luxury",
+      "es": "Por Qué Rentar Baños de Lujo"
+    },
+    "k52": {
+      "en": "Give Guests a Restroom Experience That Matches Your Event",
+      "es": "Ofrezca a sus Invitados una Experiencia a la Altura de su Evento"
+    },
+    "k53": {
+      "en": "Standard portable restrooms work great for job sites, but weddings and upscale events deserve more. Our VIP and luxury trailers add air conditioning, real lighting, and finished interiors so guests never feel like they're using a construction-site unit.",
+      "es": "Los baños portátiles estándar funcionan muy bien para obras, pero las bodas y eventos exclusivos merecen algo más. Nuestros remolques VIP y de lujo agregan aire acondicionado, iluminación real e interiores terminados para que sus invitados nunca sientan que usan una unidad de obra."
+    },
+    "k54": {
+      "en": " Climate-controlled comfort in Coachella Valley heat",
+      "es": " Confort climatizado ante el calor del Valle de Coachella"
+    },
+    "k55": {
+      "en": " Elegant finishes suited to weddings & formal events",
+      "es": " Acabados elegantes para bodas y eventos formales"
+    },
+    "k56": {
+      "en": " Pair with a ",
+      "es": " Combine con una "
+    },
+    "k57": {
+      "en": "shade structure",
+      "es": "estructura de sombra"
+    },
+    "k58": {
+      "en": " for outdoor guest areas",
+      "es": " para áreas al aire libre"
+    },
+    "k59": {
+      "en": "Check Availability for Your Date",
+      "es": "Consultar Disponibilidad para su Fecha"
+    },
+    "k60": {
+      "en": "O&A Restroom Portables, Inc. fleet vehicles staged for event delivery in the Coachella Valley",
+      "es": "Vehículos de la flotilla de O&A Restroom Portables, Inc. listos para entrega de evento en el Valle de Coachella"
+    },
+    "k61": {
+      "en": "Planning a wedding or special event?",
+      "es": "¿Está planeando una boda o evento especial?"
+    },
+    "k62": {
+      "en": "Reserve your VIP or luxury restroom trailer early — popular dates book up fast.",
+      "es": "Reserve su remolque VIP o de lujo con anticipación — las fechas populares se agotan rápido."
+    },
+    "k63": {
+      "en": "Request a Quote",
+      "es": "Solicitar Cotización"
+    },
+    "k64": {
+      "en": "Portable restroom, septic pumping, and event/construction equipment rentals serving the Coachella Valley, CA.",
+      "es": "Renta de baños portátiles, limpieza séptica y equipo para construcción/eventos en el Valle de Coachella, CA."
+    },
+    "k65": {
+      "en": "License B-1002207 · Licensed & Bonded",
+      "es": "Licencia B-1002207 · Licenciados y Afianzados"
+    },
+    "k66": {
+      "en": "Services",
+      "es": "Servicios"
+    },
+    "k67": {
+      "en": "Portable Restrooms",
+      "es": "Baños Portátiles"
+    },
+    "k68": {
+      "en": "Luxury & VIP Trailers",
+      "es": "Baños de Lujo y VIP"
+    },
+    "k69": {
+      "en": "Septic Tank Pumping",
+      "es": "Limpieza de Fosas Sépticas"
+    },
+    "k70": {
+      "en": "Construction Equipment",
+      "es": "Equipo de Construcción"
+    },
+    "k71": {
+      "en": "Company",
+      "es": "Compañía"
+    },
+    "k72": {
+      "en": "About Us",
+      "es": "Nosotros"
+    },
+    "k73": {
+      "en": "Service Area",
+      "es": "Zona de Servicio"
+    },
+    "k74": {
+      "en": "Contact",
+      "es": "Contacto"
+    },
+    "k75": {
+      "en": "Español",
+      "es": "English"
+    },
+    "k76": {
+      "en": "Contact",
+      "es": "Contacto"
+    },
+    "k77": {
+      "en": "© 2026 O&A Restroom Portables, Inc. All rights reserved.",
+      "es": "© 2026 O&A Restroom Portables, Inc. Todos los derechos reservados."
+    },
+    "k78": {
+      "en": "License B-1002207",
+      "es": "Licencia B-1002207"
+    }
+  }
+}

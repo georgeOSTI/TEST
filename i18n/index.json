@@ -1,0 +1,364 @@
+{
+  "translations": {
+    "k1": {
+      "en": "Portable Restroom & Septic Service Rental | O&A Restroom Portables Inc | Coachella Valley, CA",
+      "es": "Renta de Baños Portátiles y Servicio Séptico | O&A Restroom Portables, Inc. | Valle de Coachella"
+    },
+    "k2": {
+      "en": "O&A Restroom Portables Inc provides portable restroom rentals, ADA-accessible units, luxury restroom trailers, septic tank pumping, and event equipment across the Coachella Valley, CA. Licensed & bonded (B-1002207). Call (760) 701-0814.",
+      "es": "O&A Restroom Portables, Inc. ofrece renta de baños portátiles, unidades ADA, remolques de baños de lujo, limpieza de fosas sépticas y equipo para eventos en el Valle de Coachella. Licencia B-1002207. Llame al (760) 701-0814."
+    },
+    "k3": {
+      "en": "O&A Restroom Portables Inc | Portable Restroom & Septic Rentals in Coachella Valley, CA",
+      "es": "O&A Restroom Portables, Inc. | Renta de Baños Portátiles y Servicio Séptico"
+    },
+    "k4": {
+      "en": "Portable restrooms, ADA units, luxury trailers, septic pumping & event equipment. Licensed & bonded. Serving the Coachella Valley since day one.",
+      "es": "Baños portátiles, unidades ADA, remolques de lujo, limpieza séptica y equipo para eventos. Licenciados y afianzados."
+    },
+    "k5": {
+      "en": "https://oarestroomservices.com/",
+      "es": "https://oarestroomservices.com/es/"
+    },
+    "k6": {
+      "en": "en_US",
+      "es": "es_ES"
+    },
+    "k7": {
+      "en": "es_ES",
+      "es": "en_US"
+    },
+    "k8": {
+      "en": "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"O&A Restroom Portables Inc\",\n  \"alternateName\": \"O&A Restroom Portables Inc\",\n  \"image\": \"https://oarestroomservices.com/assets/img/oa-septic-truck-fleet-yard-coachella-valley.jpg\",\n  \"telephone\": \"+1-760-701-0814\",\n  \"email\": \"oarenas@oarestroomservices.com\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"83533 Ashler Ct\",\n    \"addressLocality\": \"Coachella\",\n    \"addressRegion\": \"CA\",\n    \"postalCode\": \"92236\",\n    \"addressCountry\": \"US\"\n  },\n  \"areaServed\": {\"@type\": \"Place\", \"name\": \"Coachella Valley, CA\"},\n  \"url\": \"https://oarestroomservices.com/\",\n  \"priceRange\": \"$$\",\n  \"description\": \"Portable restroom rental, ADA-accessible units, luxury restroom trailers, septic tank pumping, and event/construction equipment rentals serving the Coachella Valley.\",\n  \"hasCredential\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"State Contractor License\", \"identifier\": \"B-1002207\"}\n}\n",
+      "es": "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"O&A Restroom Portables, Inc.\",\n  \"alternateName\": \"O&A Restroom Portables Inc\",\n  \"image\": \"https://oarestroomservices.com/assets/img/oa-septic-truck-fleet-yard-coachella-valley.jpg\",\n  \"telephone\": \"+1-760-701-0814\",\n  \"email\": \"oarenas@oarestroomservices.com\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"83533 Ashler Ct\",\n    \"addressLocality\": \"Coachella\",\n    \"addressRegion\": \"CA\",\n    \"postalCode\": \"92236\",\n    \"addressCountry\": \"US\"\n  },\n  \"areaServed\": {\"@type\": \"Place\", \"name\": \"Valle de Coachella, CA\"},\n  \"url\": \"https://oarestroomservices.com/es/\",\n  \"priceRange\": \"$$\",\n  \"description\": \"Renta de baños portátiles, unidades ADA, remolques de lujo, limpieza de fosas sépticas y equipo para construcción/eventos en el Valle de Coachella.\",\n  \"hasCredential\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"Licencia Estatal de Contratista\", \"identifier\": \"B-1002207\"}\n}\n"
+    },
+    "k9": {
+      "en": "Skip to content",
+      "es": "Saltar al contenido"
+    },
+    "k10": {
+      "en": "License B-1002207 · Licensed & Bonded",
+      "es": "Licencia B-1002207 · Licenciados y Afianzados"
+    },
+    "k11": {
+      "en": "Español",
+      "es": "English"
+    },
+    "k12": {
+      "en": "Coachella Valley, CA",
+      "es": "Valle de Coachella, CA"
+    },
+    "k13": {
+      "en": "Toggle menu",
+      "es": "Alternar menú"
+    },
+    "k14": {
+      "en": "Home",
+      "es": "Inicio"
+    },
+    "k15": {
+      "en": "Portable",
+      "es": "Baños"
+    },
+    "k16": {
+      "en": "Restrooms",
+      "es": "Portátiles"
+    },
+    "k17": {
+      "en": "Luxury",
+      "es": "Baños"
+    },
+    "k18": {
+      "en": "Restrooms",
+      "es": "de Lujo"
+    },
+    "k19": {
+      "en": "Septic",
+      "es": "Limpieza"
+    },
+    "k20": {
+      "en": "Pumping",
+      "es": "Séptica"
+    },
+    "k21": {
+      "en": "Construction",
+      "es": "Equipo de"
+    },
+    "k22": {
+      "en": "Equipment",
+      "es": "Construcción"
+    },
+    "k23": {
+      "en": "Service",
+      "es": "Zona de"
+    },
+    "k24": {
+      "en": "Area",
+      "es": "Servicio"
+    },
+    "k25": {
+      "en": "About",
+      "es": "Nosotros"
+    },
+    "k26": {
+      "en": "Contact",
+      "es": "Contacto"
+    },
+    "k27": {
+      "en": "Get a Quote",
+      "es": "Cotizar Ahora"
+    },
+    "k28": {
+      "en": "Coachella Valley · Licensed & Bonded B-1002207",
+      "es": "Valle de Coachella · Licenciados y Afianzados B-1002207"
+    },
+    "k29": {
+      "en": "Portable Restrooms & Septic Service, Available Across the Valley",
+      "es": "Baños Portátiles y Servicio Séptico, Disponibles en Todo el Valle"
+    },
+    "k30": {
+      "en": "From single-stall units for backyard projects to VIP restroom trailers for weddings, plus septic tank pumping and job-site equipment — O&A Restroom Portables, Inc. keeps your event or work site running clean.",
+      "es": "Desde unidades individuales para proyectos de patio trasero hasta remolques VIP para bodas, además de limpieza de fosas sépticas y equipo para obras — O&A Restroom Portables, Inc. mantiene su evento o sitio de trabajo funcionando limpio."
+    },
+    "k31": {
+      "en": "Request a Free Quote",
+      "es": "Solicitar Cotización Gratis"
+    },
+    "k32": {
+      "en": "Call (760) 701-0814",
+      "es": "Llamar (760) 701-0814"
+    },
+    "k33": {
+      "en": "Equipment types available",
+      "es": "Tipos de equipo disponibles"
+    },
+    "k34": {
+      "en": "State license, bonded",
+      "es": "Licencia estatal, afianzados"
+    },
+    "k35": {
+      "en": "Locally based & dispatched",
+      "es": "Base local y despacho rápido"
+    },
+    "k36": {
+      "en": " Licensed & bonded (B-1002207)",
+      "es": " Licenciados y afianzados (B-1002207)"
+    },
+    "k37": {
+      "en": " Fast turnaround on delivery",
+      "es": " Entrega rápida"
+    },
+    "k38": {
+      "en": " Construction sites & special events",
+      "es": " Obras de construcción y eventos especiales"
+    },
+    "k39": {
+      "en": "What We Offer",
+      "es": "Lo Que Ofrecemos"
+    },
+    "k40": {
+      "en": "Equipment & Services for Every Job",
+      "es": "Equipo y Servicios para Cada Trabajo"
+    },
+    "k41": {
+      "en": "Standard units, ADA-accessible restrooms, luxury trailers, septic pumping, and the site support gear to go with it.",
+      "es": "Unidades estándar, baños ADA, remolques de lujo, limpieza séptica y todo el equipo de apoyo que necesita."
+    },
+    "k42": {
+      "en": "Portable Restrooms",
+      "es": "Baños Portátiles"
+    },
+    "k43": {
+      "en": "Standard, double, triple & ADA-accessible units — from $150/mo.",
+      "es": "Unidades estándar, dobles, triples y ADA — desde $150/mes."
+    },
+    "k44": {
+      "en": "Luxury & VIP Trailers",
+      "es": "Remolques VIP y de Lujo"
+    },
+    "k45": {
+      "en": "Air-conditioned, elegant restroom trailers for weddings & special events.",
+      "es": "Remolques con aire acondicionado, ideales para bodas y eventos especiales."
+    },
+    "k46": {
+      "en": "Septic Tank Pumping",
+      "es": "Limpieza de Fosas Sépticas"
+    },
+    "k47": {
+      "en": "Professional pump-out & cleaning",
+      "es": "Servicio profesional de bombeo y limpieza — $550 por 1,000 galones."
+    },
+    "k48": {
+      "en": "Construction & Event Equipment",
+      "es": "Equipo para Construcción y Eventos"
+    },
+    "k49": {
+      "en": "Handwash stations, shade structures, light towers, generators & containers.",
+      "es": "Estaciones de lavado, sombras, torres de luz, generadores y contenedores."
+    },
+    "k50": {
+      "en": "Why O&A",
+      "es": "Por Qué O&A"
+    },
+    "k51": {
+      "en": "Local Service, Straightforward Pricing",
+      "es": "Servicio Local, Precios Claros"
+    },
+    "k52": {
+      "en": "We're based right in Coachella and dispatch throughout the Coachella Valley, so your units and equipment arrive on time and get serviced on schedule. No hidden fees — every price in our catalog is what you pay.",
+      "es": "Estamos ubicados en Coachella y despachamos por todo el Valle, así que sus unidades y equipo llegan a tiempo y reciben servicio según lo programado. Sin cargos ocultos — el precio del catálogo es lo que usted paga."
+    },
+    "k53": {
+      "en": " Monthly rentals for construction sites & long-term projects",
+      "es": " Rentas mensuales para obras y proyectos largos"
+    },
+    "k54": {
+      "en": " Short-term rentals for weddings, festivals & private events",
+      "es": " Rentas de corto plazo para bodas, festivales y eventos privados"
+    },
+    "k55": {
+      "en": " ADA-compliant units available for every job site",
+      "es": " Unidades ADA disponibles para cada obra"
+    },
+    "k56": {
+      "en": " Septic pumping, light towers & generators to round out your site",
+      "es": " Limpieza séptica, torres de luz y generadores para completar su sitio"
+    },
+    "k57": {
+      "en": "More About O&A",
+      "es": "Más Sobre O&A"
+    },
+    "k58": {
+      "en": "O&A Restroom Portables, Inc. fleet of septic trucks and portable restroom units parked in the Coachella, CA service yard with palm trees in the background",
+      "es": "Flotilla de camiones sépticos y baños portátiles de O&A Restroom Portables, Inc. en el patio de servicio en Coachella, CA, con palmeras al fondo"
+    },
+    "k59": {
+      "en": "How It Works",
+      "es": "Cómo Funciona"
+    },
+    "k60": {
+      "en": "Get Set Up in Four Simple Steps",
+      "es": "Comience en Cuatro Simples Pasos"
+    },
+    "k61": {
+      "en": "Tell us your job",
+      "es": "Cuéntenos su proyecto"
+    },
+    "k62": {
+      "en": "Call or send a quote request with your site, event, or job details.",
+      "es": "Llame o envíe una solicitud de cotización con los detalles de su sitio o evento."
+    },
+    "k63": {
+      "en": "Pick your equipment",
+      "es": "Elija su equipo"
+    },
+    "k64": {
+      "en": "We help you choose the right units and gear for your headcount and duration.",
+      "es": "Le ayudamos a elegir las unidades correctas según su aforo y duración."
+    },
+    "k65": {
+      "en": "We deliver & set up",
+      "es": "Entregamos e instalamos"
+    },
+    "k66": {
+      "en": "Our team places and services everything on schedule.",
+      "es": "Nuestro equipo coloca y da servicio a todo según el calendario."
+    },
+    "k67": {
+      "en": "We handle pickup",
+      "es": "Recogemos al terminar"
+    },
+    "k68": {
+      "en": "When you're done, we pick up and, if needed, pump and clean.",
+      "es": "Cuando termine, recogemos y, si es necesario, bombeamos y limpiamos."
+    },
+    "k69": {
+      "en": "Ready to book equipment for your site or event?",
+      "es": "¿Listo para reservar equipo para su obra o evento?"
+    },
+    "k70": {
+      "en": "Call us or send your job details and we'll put together a quote same day.",
+      "es": "Llámenos o envíe los detalles de su trabajo y armamos una cotización el mismo día."
+    },
+    "k71": {
+      "en": "Request a Quote",
+      "es": "Solicitar Cotización"
+    },
+    "k72": {
+      "en": "Where We Work",
+      "es": "Dónde Trabajamos"
+    },
+    "k73": {
+      "en": "Serving the Entire Coachella Valley",
+      "es": "Servimos Todo el Valle de Coachella"
+    },
+    "k74": {
+      "en": "Coachella, Indio, Mecca, Thermal, La Quinta, Palm Desert, Palm Springs, Cathedral City and surrounding communities.",
+      "es": "Coachella, Indio, Mecca, Thermal, La Quinta, Palm Desert, Palm Springs, Cathedral City y comunidades cercanas."
+    },
+    "k75": {
+      "en": "View Full Service Area",
+      "es": "Ver Zona de Servicio Completa"
+    },
+    "k76": {
+      "en": "Portable restroom, septic pumping, and event/construction equipment rentals serving the Coachella Valley, CA.",
+      "es": "Renta de baños portátiles, limpieza séptica y equipo para construcción/eventos en el Valle de Coachella, CA."
+    },
+    "k77": {
+      "en": "License B-1002207 · Licensed & Bonded",
+      "es": "Licencia B-1002207 · Licenciados y Afianzados"
+    },
+    "k78": {
+      "en": "Services",
+      "es": "Servicios"
+    },
+    "k79": {
+      "en": "Portable Restrooms",
+      "es": "Baños Portátiles"
+    },
+    "k80": {
+      "en": "Luxury & VIP Trailers",
+      "es": "Baños de Lujo y VIP"
+    },
+    "k81": {
+      "en": "Septic Tank Pumping",
+      "es": "Limpieza de Fosas Sépticas"
+    },
+    "k82": {
+      "en": "Construction Equipment",
+      "es": "Equipo de Construcción"
+    },
+    "k83": {
+      "en": "Company",
+      "es": "Compañía"
+    },
+    "k84": {
+      "en": "About Us",
+      "es": "Nosotros"
+    },
+    "k85": {
+      "en": "Service Area",
+      "es": "Zona de Servicio"
+    },
+    "k86": {
+      "en": "Contact",
+      "es": "Contacto"
+    },
+    "k87": {
+      "en": "Español",
+      "es": "English"
+    },
+    "k88": {
+      "en": "Contact",
+      "es": "Contacto"
+    },
+    "k89": {
+      "en": "© 2026 O&A Restroom Portables Inc. All rights reserved.",
+      "es": "© 2026 O&A Restroom Portables, Inc. Todos los derechos reservados."
+    },
+    "k90": {
+      "en": "License B-1002207",
+      "es": "Licencia B-1002207"
+    }
+  }
+}
