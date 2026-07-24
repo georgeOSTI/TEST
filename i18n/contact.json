@@ -148,10 +148,6 @@
       "en": "e.g. Indio, CA 92201",
       "es": "ej. Indio, CA 92201"
     },
-    "k38": {
-      "en": "What do you need?",
-      "es": "¿Qué necesita?"
-    },
     "k39": {
       "en": "Standard Floor Restroom",
       "es": "Baño Estándar de Piso"
@@ -207,10 +203,6 @@
     "k52": {
       "en": "Cargo Container",
       "es": "Contenedor de Carga"
-    },
-    "k53": {
-      "en": "Not sure — help me choose",
-      "es": "No estoy seguro — ayúdenme a elegir"
     },
     "k54": {
       "en": "Date Needed",
@@ -339,6 +331,14 @@
     "k85": {
       "en": "License B-1002207",
       "es": "Licencia B-1002207"
+    },
+    "k86": {
+      "en": "Add equipment to your quote",
+      "es": "Agregue equipo a su cotización"
+    },
+    "k87": {
+      "en": "Check everything you need — no need to visit each page separately.",
+      "es": "Marque todo lo que necesite — no es necesario visitar cada página por separado."
     }
   }
 }

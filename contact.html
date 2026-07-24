@@ -81,9 +81,32 @@
       <div>
         <h2 style="margin-bottom:14px;">Your Quote List</h2>
         <div class="quote-list-box"></div>
+
+        <div class="quote-picker">
+          <h3>Add equipment to your quote</h3>
+          <p class="form-note" style="margin-bottom:14px;">Check everything you need — no need to visit each page separately.</p>
+          <div class="quote-picker-grid">
+            <label class="quote-picker-item"><input type="checkbox" data-quote-name="Standard Floor Restroom">Standard Floor Restroom</label>
+            <label class="quote-picker-item"><input type="checkbox" data-quote-name="Standard Restroom on Trailer">Standard Restroom on Trailer</label>
+            <label class="quote-picker-item"><input type="checkbox" data-quote-name="Double Restroom on Trailer">Double Restroom on Trailer</label>
+            <label class="quote-picker-item"><input type="checkbox" data-quote-name="Triple Restroom on Trailer">Triple Restroom on Trailer</label>
+            <label class="quote-picker-item"><input type="checkbox" data-quote-name="ADA Accessible Restroom">ADA Accessible Restroom</label>
+            <label class="quote-picker-item"><input type="checkbox" data-quote-name="VIP Restroom on Trailer">VIP Restroom on Trailer</label>
+            <label class="quote-picker-item"><input type="checkbox" data-quote-name="Luxury Trailer Restroom">Luxury Trailer Restroom</label>
+            <label class="quote-picker-item"><input type="checkbox" data-quote-name="Handwashing Station">Handwashing Station</label>
+            <label class="quote-picker-item"><input type="checkbox" data-quote-name="Septic Tank Pumping">Septic Tank Pumping</label>
+            <label class="quote-picker-item"><input type="checkbox" data-quote-name="Shade Structure">Shade Structure</label>
+            <label class="quote-picker-item"><input type="checkbox" data-quote-name="Utility Trailer">Utility Trailer</label>
+            <label class="quote-picker-item"><input type="checkbox" data-quote-name="Light Tower">Light Tower</label>
+            <label class="quote-picker-item"><input type="checkbox" data-quote-name="Generator">Generator</label>
+            <label class="quote-picker-item"><input type="checkbox" data-quote-name="Cargo Container">Cargo Container</label>
+          </div>
+        </div>
+
         <h2>Send Us Your Job Details</h2>
         <form class="quote-form" id="quote-form" data-lang="en">
           <input type="hidden" id="selected-items-field" name="selected_items">
+          <input type="text" name="website" id="website" class="hp-field" autocomplete="off" tabindex="-1" aria-hidden="true">
           <div class="form-row">
             <div>
               <label for="name">Full Name</label>
@@ -103,26 +126,6 @@
               <label for="location">Delivery City / ZIP</label>
               <input type="text" id="location" name="location" placeholder="e.g. Indio, CA 92201" required="">
             </div>
-          </div>
-          <div>
-            <label for="equipment">What do you need?</label>
-            <select id="equipment" name="equipment">
-              <option>Standard Floor Restroom</option>
-              <option>Standard Restroom on Trailer</option>
-              <option>Double Restroom on Trailer</option>
-              <option>Triple Restroom on Trailer</option>
-              <option>ADA Accessible Restroom</option>
-              <option>VIP Restroom on Trailer</option>
-              <option>Luxury Trailer Restroom</option>
-              <option>Handwashing Station</option>
-              <option>Septic Tank Pumping</option>
-              <option>Shade Structure</option>
-              <option>Utility Trailer</option>
-              <option>Light Tower</option>
-              <option>Generator</option>
-              <option>Cargo Container</option>
-              <option>Not sure — help me choose</option>
-            </select>
           </div>
           <div class="form-row">
             <div>

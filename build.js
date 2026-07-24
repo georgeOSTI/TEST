@@ -78,8 +78,8 @@ for (const page of PAGES) {
   const template = fs.readFileSync(path.join(TEMPLATES_DIR, page.key + '.html'), 'utf8');
   const data = JSON.parse(fs.readFileSync(path.join(I18N_DIR, page.key + '.json'), 'utf8'));
 
-  const enHtml = localizeMarkup(substituteTokens(template, data.translations, 'en'), 'en');
-  const esHtml = localizeMarkup(substituteTokens(template, data.translations, 'es'), 'es');
+  const enHtml = localizeMarkup(substituteTokens(template, data.translations, 'en'), 'en').replace(/__LANG__/g, 'en');
+  const esHtml = localizeMarkup(substituteTokens(template, data.translations, 'es'), 'es').replace(/__LANG__/g, 'es');
 
   fs.writeFileSync(path.join(ROOT, page.enOut), enHtml, 'utf8');
 

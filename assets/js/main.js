@@ -57,18 +57,56 @@ document.addEventListener("DOMContentLoaded", function () {
 
   var form = document.querySelector(".quote-form");
   if (form) {
+    var isEs = form.getAttribute("data-lang") === "es";
+    var messages = {
+      sending: isEs ? "Enviando…" : "Sending…",
+      success: isEs
+        ? "¡Gracias! Hemos recibido su solicitud y le contactaremos pronto."
+        : "Thanks! Your request has been received — we'll be in touch shortly.",
+      error: isEs
+        ? "No se pudo enviar la solicitud. Intente de nuevo o llámenos al (760) 701-0814."
+        : "Something went wrong sending your request. Please try again or call us at (760) 701-0814.",
+    };
+
     form.addEventListener("submit", function (e) {
       e.preventDefault();
       var status = form.querySelector(".form-status");
-      if (status) {
-        status.textContent =
-          form.getAttribute("data-lang") === "es"
-            ? "¡Gracias! Hemos recibido su solicitud y le contactaremos pronto."
-            : "Thanks! Your request has been received — we'll be in touch shortly.";
+      var submitBtn = form.querySelector('button[type="submit"]');
+      var showStatus = function (text) {
+        if (!status) return;
+        status.textContent = text;
         status.hidden = false;
-      }
-      form.reset();
-      if (window.OAQuote) window.OAQuote.clearItems();
+      };
+
+      var data = Object.fromEntries(new FormData(form).entries());
+      data.lang = isEs ? "es" : "en";
+
+      if (submitBtn) submitBtn.disabled = true;
+      showStatus(messages.sending);
+
+      fetch("/send-quote.php", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(data),
+      })
+        .then(function (res) {
+          return res.json().then(function (body) {
+            return { ok: res.ok && body.ok, body: body };
+          });
+        })
+        .catch(function () {
+          return { ok: false };
+        })
+        .then(function (result) {
+          if (submitBtn) submitBtn.disabled = false;
+          if (result.ok) {
+            showStatus(messages.success);
+            form.reset();
+            if (window.OAQuote) window.OAQuote.clearItems();
+          } else {
+            showStatus(messages.error);
+          }
+        });
     });
   }
 });
@@ -222,14 +260,41 @@ document.addEventListener("DOMContentLoaded", function () {
     window._renderQuoteContactList = render;
   }
 
+  function initQuotePicker() {
+    var checkboxes = document.querySelectorAll(".quote-picker-item input[type=checkbox]");
+    if (!checkboxes.length) return;
+    function refresh() {
+      var items = getItems();
+      checkboxes.forEach(function (box) {
+        var name = box.getAttribute("data-quote-name");
+        box.checked = hasItem(items, slugify(name));
+      });
+    }
+    checkboxes.forEach(function (box) {
+      box.addEventListener("change", function () {
+        var name = box.getAttribute("data-quote-name");
+        var id = slugify(name);
+        if (box.checked) {
+          addItem({ id: id, name: name, price: "" });
+        } else {
+          removeItem(id);
+        }
+      });
+    });
+    refresh();
+    window._renderQuotePicker = refresh;
+  }
+
   function renderAll() {
     renderTray();
     if (window._renderQuoteContactList) window._renderQuoteContactList();
+    if (window._renderQuotePicker) window._renderQuotePicker();
   }
 
   document.addEventListener("DOMContentLoaded", function () {
     initCardButtons();
     initContactList();
+    initQuotePicker();
     renderTray();
   });
 

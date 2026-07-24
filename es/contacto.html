@@ -81,9 +81,32 @@
       <div>
         <h2 style="margin-bottom:14px;">Su Lista de Cotización</h2>
         <div class="quote-list-box"></div>
+
+        <div class="quote-picker">
+          <h3>Agregue equipo a su cotización</h3>
+          <p class="form-note" style="margin-bottom:14px;">Marque todo lo que necesite — no es necesario visitar cada página por separado.</p>
+          <div class="quote-picker-grid">
+            <label class="quote-picker-item"><input type="checkbox" data-quote-name="Baño Estándar de Piso">Baño Estándar de Piso</label>
+            <label class="quote-picker-item"><input type="checkbox" data-quote-name="Baño Estándar en Remolque">Baño Estándar en Remolque</label>
+            <label class="quote-picker-item"><input type="checkbox" data-quote-name="Baño Doble en Remolque">Baño Doble en Remolque</label>
+            <label class="quote-picker-item"><input type="checkbox" data-quote-name="Baño Triple en Remolque">Baño Triple en Remolque</label>
+            <label class="quote-picker-item"><input type="checkbox" data-quote-name="Baño ADA Accesible">Baño ADA Accesible</label>
+            <label class="quote-picker-item"><input type="checkbox" data-quote-name="Baño VIP en Remolque">Baño VIP en Remolque</label>
+            <label class="quote-picker-item"><input type="checkbox" data-quote-name="Baño de Lujo Tipo Trailer">Baño de Lujo Tipo Trailer</label>
+            <label class="quote-picker-item"><input type="checkbox" data-quote-name="Unidad de Lavado de Manos">Unidad de Lavado de Manos</label>
+            <label class="quote-picker-item"><input type="checkbox" data-quote-name="Limpieza de Fosa Séptica">Limpieza de Fosa Séptica</label>
+            <label class="quote-picker-item"><input type="checkbox" data-quote-name="Estructura de Sombra">Estructura de Sombra</label>
+            <label class="quote-picker-item"><input type="checkbox" data-quote-name="Remolque Utilitario">Remolque Utilitario</label>
+            <label class="quote-picker-item"><input type="checkbox" data-quote-name="Torre de Iluminación">Torre de Iluminación</label>
+            <label class="quote-picker-item"><input type="checkbox" data-quote-name="Generador">Generador</label>
+            <label class="quote-picker-item"><input type="checkbox" data-quote-name="Contenedor de Carga">Contenedor de Carga</label>
+          </div>
+        </div>
+
         <h2>Envíenos los Detalles de su Trabajo</h2>
-        <form class="quote-form" id="quote-form" data-lang="en">
+        <form class="quote-form" id="quote-form" data-lang="es">
           <input type="hidden" id="selected-items-field" name="selected_items">
+          <input type="text" name="website" id="website" class="hp-field" autocomplete="off" tabindex="-1" aria-hidden="true">
           <div class="form-row">
             <div>
               <label for="name">Nombre Completo</label>
@@ -103,26 +126,6 @@
               <label for="location">Ciudad / Código Postal de Entrega</label>
               <input type="text" id="location" name="location" placeholder="ej. Indio, CA 92201" required="">
             </div>
-          </div>
-          <div>
-            <label for="equipment">¿Qué necesita?</label>
-            <select id="equipment" name="equipment">
-              <option>Baño Estándar de Piso</option>
-              <option>Baño Estándar en Remolque</option>
-              <option>Baño Doble en Remolque</option>
-              <option>Baño Triple en Remolque</option>
-              <option>Baño ADA Accesible</option>
-              <option>Baño VIP en Remolque</option>
-              <option>Baño de Lujo Tipo Trailer</option>
-              <option>Unidad de Lavado de Manos</option>
-              <option>Limpieza de Fosa Séptica</option>
-              <option>Estructura de Sombra</option>
-              <option>Remolque Utilitario</option>
-              <option>Torre de Iluminación</option>
-              <option>Generador</option>
-              <option>Contenedor de Carga</option>
-              <option>No estoy seguro — ayúdenme a elegir</option>
-            </select>
           </div>
           <div class="form-row">
             <div>

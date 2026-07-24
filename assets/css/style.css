@@ -415,6 +415,7 @@ section { padding: 72px 0; }
 .info-row strong { display: block; color: var(--color-ink); }
 
 form.quote-form { display: grid; gap: 16px; }
+.hp-field { position: absolute; left: -9999px; width: 1px; height: 1px; opacity: 0; }
 .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
 @media (max-width: 560px) { .form-row { grid-template-columns: 1fr; } }
 label { font-weight: 600; font-size: 0.88rem; color: var(--color-ink); display: block; margin-bottom: 6px; }
@@ -535,3 +536,21 @@ input:focus, select:focus, textarea:focus { outline: 2px solid var(--color-blue)
   font-size: 1.2rem; line-height: 1; padding: 0 4px; flex-shrink: 0;
 }
 .quote-list-remove:hover { color: #c0392b; }
+
+.quote-picker { margin-bottom: 28px; }
+.quote-picker h3 { margin-bottom: 4px; }
+.quote-picker-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 8px;
+}
+@media (max-width: 560px) { .quote-picker-grid { grid-template-columns: 1fr; } }
+.quote-picker-item {
+  display: flex; align-items: center; gap: 10px;
+  background: #fff; border: 1px solid var(--color-line); border-radius: var(--radius-sm);
+  padding: 10px 12px; font-size: 0.88rem; font-weight: 500; color: var(--color-ink);
+  cursor: pointer; transition: border-color 0.15s ease, background 0.15s ease;
+}
+.quote-picker-item:hover { border-color: var(--color-blue); }
+.quote-picker-item input { width: auto; flex-shrink: 0; accent-color: var(--color-blue); cursor: pointer; }
+.quote-picker-item:has(input:checked) { background: var(--color-blue-light); border-color: var(--color-blue); }
